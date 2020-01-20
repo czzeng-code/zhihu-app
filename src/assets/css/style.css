@@ -7,12 +7,10 @@ p {
 .title {
 	font-size: 16px;
 	font-weight: 600;
-	color: rgba(0, 0, 0, 0.7);
 }
 
 .sub-title {
 	font-size: 15px;
-	color: rgba(0, 0, 0, 0.6);
 }
 
 .meta {

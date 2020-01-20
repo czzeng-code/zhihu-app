@@ -8,10 +8,11 @@
 @import url("assets/css/basic.css");
 @import url("assets/css/style.css");
 #app {
-  .main {
-		background-color: #f6f6f6;
-  }
+	background-color: rgb(246, 246, 246);
+  
 }
-
+.container{
+	margin-top: 50px;
+}
 
 </style>
